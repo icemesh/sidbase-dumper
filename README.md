@@ -7,3 +7,5 @@ This program takes in input a sidbase.bin file and spits out a file called sidba
 
 Given that there has been only a leaked sidbase.bin this program only works for said version (ps3 version). 
 If there's ever gonna be another leak this program will be updated. 
+
+UPDATE - 19/10/2022: confirmed to be working with the sidbase included in the Legacy of Thieves Collection
